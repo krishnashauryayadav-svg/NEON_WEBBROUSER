@@ -9,8 +9,7 @@ An advanced, feature-rich web browser built using **Python** and **PyQt6 (Chromi
 
 ## 🚀 Key Features
 
-* 🛠️ **Chromium Core:** Powered by QtWebEngine for modern, secure, and blazing-fast web rendering.
-* 🛡️ **Built-in Proxy (VPN):** Easily route your traffic through secure proxy servers to stay anonymous.
+* 🛠️ **Chromium Core:** Powered by QtWebEngine for modern, secure, and blazing-fast web rendering.  
 * 📸 **Smart Screenshot:** Capture full-screen or selected web page areas with a single click.
 * 🎥 **Screen Recorder:** Record your browsing sessions with dynamic screen-capturing capabilities.
 * 🕵️‍♂️ **History Toggle (On/Off):** Incognito-style privacy control to turn browsing history on or off instantly.
