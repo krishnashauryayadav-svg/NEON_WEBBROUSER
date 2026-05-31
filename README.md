@@ -31,8 +31,8 @@ Follow these simple steps to run the browser locally on your machine:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com
-cd krishnashauryayadav-svg/NEON_WEBBROUSER
+git clone https://github.com/krishnashauryayadav-svg/NEON_WEBBROUSER
+cd NEON_WEBBROUSER
 ```
 
 ### Step 2: Install Dependencies
